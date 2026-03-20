@@ -9,7 +9,7 @@ Java script variable type assigning
 var and const 
 Java script
 */
-
+  
 var num=10;
 console.log(num);
 console.log(typeof num);
