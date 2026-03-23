@@ -7,7 +7,7 @@ result = a + b + c;
 console.log(result);
 console.log(linebreak);
 console.log("a + b = ");
-result = a + b;
+result = a + b; 
 console.log(result);
 console.log(linebreak);
 console.log("a - b = ");
