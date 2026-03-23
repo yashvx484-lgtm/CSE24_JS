@@ -9,10 +9,10 @@ Java script variable type assigning
 var and const 
 Java script
 */
-
+  
 var num=10;
 console.log(num);
-console.log(typeof num);
+console.log(typeof num); 
 num=true;
 console.log(num);
 let num1="yash";
