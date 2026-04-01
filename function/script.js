@@ -61,4 +61,3 @@ person2.address.street = "vijay nagar";
 person2['address']['flatNO'] = 33;
 console.log()
 
-format change krke bhi likh skte hai square bracket me krke
